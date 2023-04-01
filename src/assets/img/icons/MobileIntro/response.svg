@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="master-artboard" viewBox="0 0 452.5105895996094 435.49676513671875" version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" style="enable-background:new 0 0 336 235.2;" width="452.5105895996094px" height="435.49676513671875px"><defs><linearGradient id="gradient-0" gradientUnits="userSpaceOnUse" x1="524.4000244140625" y1="311.20001220703125" x2="524.4000244140625" y2="371.70001220703125">
+                <stop offset="0" style="stop-color: #f69029"/>
+                <stop offset="1" style="stop-color: #b25d07"/>
+              </linearGradient><linearGradient id="gradient-1" gradientUnits="userSpaceOnUse" x1="508.50001525878906" y1="292.6000061035156" x2="508.50001525878906" y2="329">
+                <stop offset="0" style="stop-color: #55b6c5"/>
+                <stop offset="1" style="stop-color: #2e7a86"/>
+              </linearGradient><linearGradient id="gradient-2" gradientUnits="userSpaceOnUse" x1="541.1000366210938" y1="295.3999938964844" x2="541.1000366210938" y2="332.29998779296875">
+                <stop offset="0" style="stop-color: #ef4839"/>
+                <stop offset="1" style="stop-color: #b31c0f"/>
+              </linearGradient></defs><rect id="ee-background" x="0" y="0" width="452.5105895996094" height="435.49676513671875" style="fill: white; fill-opacity: 0; pointer-events: none;"/><g transform="matrix(3.7004754543304443, 0, 0, 3.7004754543304443, -2186.4547119140625, -139.5189208984375)"><g id="g-1" transform="matrix(1, 0, 0, 1, 0, 0)">
+	<g id="g-2">
+		<path class="st0" d="M652,46c27.6,0,50,22.4,50,50s-22.4,50-50,50s-50-22.4-50-50S624.4,46,652,46z" style="fill: rgb(255, 144, 107); stroke: rgb(0, 0, 0); stroke-width: 2;"/>
+	</g>
+</g></g><g transform="matrix(1.5648390054702759, 0, 0, 1.5648390054702759, 73.55207061767578, 147.39414978027344)"><g id="Layer_2_9_" transform="matrix(1, 0, 0, 1, 0, 0)">
+	<g id="Layer_1-2_9_">
+		
+	</g>
+</g></g><g transform="matrix(1.0663488275541733, 0, 0, 1.0663488275541733, -348.72000042977, 16.848285730620304)"><g transform="matrix(1, 0, 0, 1, 1.1368683772161603e-13, 0)"><path class="st0" d="M455.4,206.7h65.5v65.5c0,10.1,8.2,18.3,18.3,18.3c10.1,0,18.3-8.2,18.3-18.3v-65.5H623&#10;&#9;c10.1,0,18.3-8.2,18.3-18.3c0-10.1-8.2-18.3-18.3-18.3h-65.5v-65.5c0-10.1-8.2-18.3-18.3-18.3c-10.1,0-18.3,8.2-18.3,18.3v65.5&#10;&#9;h-65.5c-10.1,0-18.3,8.2-18.3,18.3C437.1,198.5,445.3,206.7,455.4,206.7L455.4,206.7z M455.4,206.7" style="fill: rgb(250, 255, 245); opacity: 1; stroke: rgb(0, 0, 0); stroke-width: 3;" transform="matrix(1, 0, 0, 1, 1.1368683772161603e-13, 0)"/></g></g></svg>

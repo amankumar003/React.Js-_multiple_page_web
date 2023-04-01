@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="master-artboard" viewBox="0 0 557.6373901367188 528.49365234375" version="1.1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" style="enable-background:new 0 0 336 235.2;" width="557.6373901367188px" height="528.49365234375px"><defs><linearGradient id="gradient-0" gradientUnits="userSpaceOnUse" x1="524.4000244140625" y1="311.20001220703125" x2="524.4000244140625" y2="371.70001220703125">
+                <stop offset="0" style="stop-color: #f69029"/>
+                <stop offset="1" style="stop-color: #b25d07"/>
+              </linearGradient><linearGradient id="gradient-1" gradientUnits="userSpaceOnUse" x1="508.50001525878906" y1="292.6000061035156" x2="508.50001525878906" y2="329">
+                <stop offset="0" style="stop-color: #55b6c5"/>
+                <stop offset="1" style="stop-color: #2e7a86"/>
+              </linearGradient><linearGradient id="gradient-2" gradientUnits="userSpaceOnUse" x1="541.1000366210938" y1="295.3999938964844" x2="541.1000366210938" y2="332.29998779296875">
+                <stop offset="0" style="stop-color: #ef4839"/>
+                <stop offset="1" style="stop-color: #b31c0f"/>
+              </linearGradient></defs><g transform="matrix(2.2503037452697754, 0, 0, 2.2503037452697754, 231.29019165039062, 18.86892895328083)"><rect id="ee-background" x="0" y="0" width="557.6373901367188" height="528.49365234375" style="fill: white; fill-opacity: 0; pointer-events: none;"/><g transform="matrix(2.053408548992593, 0, 0, 2.053408548992593, -1318.8995041336166, -91.90367454790976)"><g id="g-1" transform="matrix(1, 0, 0, 1, 0, 0)">
+	<g id="g-2">
+		<path class="st0" d="M652,46c27.6,0,50,22.4,50,50s-22.4,50-50,50s-50-22.4-50-50S624.4,46,652,46z" style="fill: rgb(255, 211, 13); stroke: rgb(0, 0, 0); stroke-width: 2;"/>
+	</g>
+</g></g><g transform="matrix(1.5648390054702759, 0, 0, 1.5648390054702759, 73.55207061767578, 147.39414978027344)"><g id="Layer_2_9_" transform="matrix(1, 0, 0, 1, 0, 0)">
+	<g id="Layer_1-2_9_">
+		
+	</g>
+</g></g><g transform="matrix(1.866407910758353, 0, 0, 1.866407910758353, -959.5535374381863, -516.1802405962837)"><g id="_x37_" transform="matrix(1, 0, 0, 1, 1.8474111129762605e-12, 4.618527782440651e-13)">
+		<path class="st11" d="M496.1,311.2c-5.3,6.4-8.6,14.6-8.6,23.6c0,20.4,16.5,36.9,36.9,36.9c20.4,0,36.9-16.5,36.9-36.9h-36.9&#10;&#9;&#9;&#9;L496.1,311.2z" style="fill: rgb(246, 142, 41); stroke: rgb(0, 0, 0); stroke-width: 1;"/>
+		<path class="st14" d="M494.1,305.4l28.3,23.6h0.5l-6.6-36.4C507.4,294.1,499.6,298.8,494.1,305.4z" style="fill: rgb(85, 183, 197); stroke: rgb(0, 0, 0); stroke-width: 1;"/>
+		<path class="st5" d="M525.7,295.4c-2.1,0-4.1,0.2-6.1,0.5l6.6,36.4h36.4C562.6,311.9,546.1,295.4,525.7,295.4z" style="fill: rgb(239, 73, 57); stroke: rgb(0, 0, 0); stroke-width: 1;"/>
+	</g></g></g></svg>
