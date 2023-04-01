@@ -1,0 +1,87 @@
+.LoginModalMain {
+  background: white;
+  height: 41rem;
+  transform: translateY(-50%) !important;
+  top: 50%;
+  border-radius: 0.47rem;
+  overflow: hidden;
+  //border: 1px solid #dbdbdb;
+  //box-shadow: 1px 7px 20px 2px rgba(0,0,0,.4);
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  width: 400px;
+
+  .modal-content {
+    height: 100%;
+  }
+}
+
+.loginModalCoverPic {
+  background-position: -43px -167px;
+  border-radius: 0.47rem;
+}
+
+.loginModalLogo {
+  //position: absolute;
+  //top: 0.5rem;
+  width: 100%;
+  height: 3.1rem;
+  //padding: 1rem;
+  display: flex;
+  justify-content: center;
+  margin-top: 0.1rem;
+}
+
+.loginModalInfoCard {
+  //position: absolute;
+  //top: 6rem;
+  width: 100%;
+  border: 1px solid #dbdbdb;
+  border-radius: 0.47rem;
+  background: white;
+  // left: 50%;
+  // transform: translateX(-50%);
+  padding: 1.8rem;
+  height: 41rem;
+}
+
+.loginModalSignInButton {
+  background: #0098f2;
+  border: 2px solid #0098f2;
+  border-radius: 21px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  //width: 8rem;
+  width: 100%;
+  padding: 10px 0px;
+  cursor: pointer;
+  margin-top: 1rem;
+  //max-width: 6rem;
+
+}
+
+@media only screen and (max-width: 800px) {
+  .LoginModalMain {
+    margin: 0 !important;
+    height: 100%;
+    border-radius: 0;
+    width: 100%;
+    max-height: 100%;
+    overflow: scroll;
+  }
+
+  .loginModalInfoCard {
+    border: none;
+    height: 100%;
+    padding: 1.3rem;
+    padding-top: 1.8rem;
+  }
+
+  .mModalSignUpBtn {
+    font-size: 0.9rem;
+  }
+
+  .mModalTandC {
+    font-size: 11px !important;
+  }
+}

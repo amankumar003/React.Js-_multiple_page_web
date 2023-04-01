@@ -1,0 +1,96 @@
+{
+  "Header": {
+    "title": "Welcome To Footfallz",
+    "paragraph": "The Real Estate Tool Box is Here!."
+  },
+  "About": {
+    "paragraph": "Footfall is a real estate tool box designed to help agents turn moreopportunities into business. How we do that? Have a look at our features..Whether you are a saison or a new agent Footfallz featureswill help you growth your business.",
+    "Why": [
+      "UPDATE FEATURE LIST",
+      "Reasonable Pricing ",
+      "24X7 support ",
+      "Client Satisfation"
+    ],
+    "Why2": [
+      "Fast Services",
+      "Pay as you go facility",
+      "Open house and other features",
+      "Up to date technology"
+    ]
+  },
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+ 
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Open house",
+      "text": "Easy sign in by QR code, collect guests feedback about price and condition of the property by entering araffle. Open House summary available to share with seller."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Stats",
+      "text": "Stat will help you to compare your foot traffic with other open houses in your zip code orcity. Understanding when the market is changing or when is the best time to host anopen house."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "CRM",
+      "text": "Collect all your leads from open house and more... Easy and simple CRM system to follow up and never miss an opportunities again. this tsi the best p[art of tkl j jfdksjhio jdkfjeifjd"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "News Feed:",
+      "text": "All the real estate and mortgage, news, videos, podcasts and market updates that you need to stay on top of your game are centralized in one spot."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "24X7 Support",
+      "text": "customer support and help is available for 24X7 hours, resolving issues of the customer is in the priority list of the footfallz."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Pricing",
+      "text": "Reasonable pricing that not does not add more value to the personal profit making and sharing."
+    }
+  ],
+  
+  
+  "Contact": {
+    "address": "Irvine, CA,USA ",
+    "phone": "949-742-9526",
+    "email": "feedback@footfallz.com",
+    "facebook": "https://www.facebook.com/footfallz",
+    "twitter": "https://twitter.com/footfallzapp",
+    "youtube": "youtube.com"
+  } 
+}

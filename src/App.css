@@ -1,0 +1,259 @@
+.App {
+  text-align: center;
+}
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.logo-image {
+  height: 1em;
+}
+
+.playStore-logo {
+  height: 5em;
+}
+
+.appStore-logo {
+  height: 5em
+}
+
+.video-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 350px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media screen and (max-width: 990px) {
+  .video-container {
+    padding-top: 0px;
+    padding-bottom: 20px;
+  }
+
+}
+
+@media screen and (max-width: 400px) {
+  #features {
+    padding: 20px;
+    width: 111%;
+  }
+
+  #about,
+  #services,
+  #testimonials,
+  #team,
+  #contact,
+  #footer {
+    width: 111%;
+  }
+
+  #portfolio {
+    width: 110%;
+  }
+}
+
+
+
+
+
+/* @media screen and (max-width: 768px) {
+  h1 {
+    font-size: 0.1em;
+  }
+
+  .logo-image {
+    height: 1em;
+  }
+
+  .playStore-logo {
+    height: 7em;
+  }
+
+  .appStore-logo {
+    height: 5em
+  }
+
+  .video-container {
+    padding-top: 0px;
+    padding-bottom: 20px;
+  }
+
+  #header {
+    display: block;
+    width: 100%;
+  }
+
+  #about {
+    display: block;
+    width: 100%;
+  }
+
+  #about img {
+    margin: 50px 0;
+  }
+
+  #features {
+    display: block;
+    width: 100%;
+  }
+
+  #about .img-responsive {
+
+    width: 100%;
+    height: auto;
+  }
+
+}
+
+@media screen and (max-width: 468px) {
+
+  #header .video-container{
+    width: 100%;
+    height: auto;
+  }
+
+  #header .header-title {
+   
+    font-size: 32px;
+    font-weight: bold;
+    width: 100%;
+  }
+  
+
+  .html5-video-player {
+    position: static;
+    width: 100%;
+    height: auto;
+    padding-top: 0%;
+    padding-left: 0%;
+  }
+
+  .about-text {
+    text-align: center;
+    padding-right: 0%;
+  }
+
+  #features {
+    padding: 5%;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .video-container {
+    padding-top: 0px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+    width: 100%;
+    height: auto;
+  }
+
+  #header {
+    display: block;
+    width: 100%;
+  }
+
+  #about {
+    display: block;
+    width: 100%;
+  }
+
+  #about img {
+    width: 100%;
+    margin: 5%;
+    height: auto;
+  }
+
+  #features {
+    display: auto;
+    width: 100%;
+  }
+
+  .img-responsive {
+    background-image: linear-gradient(#000e2e, #004f5a);
+    width: 100%;
+    height: auto;
+  }
+
+  #about,
+  #services,
+  #team,
+  #contact,
+  #footer,
+  #header {
+    width: 100%;
+    display: block;
+  }
+
+  #portfolio {
+    width: 110%;
+  }
+}
+
+
+
+@media screen and (max-width: 768px) {
+  /* Styles for screens smaller than 767px (e.g. smartphones) */
+/* #header .header-title {
+   
+    font-size: 40px;
+    font-weight: bold;
+    width: 100%;
+    height: auto;
+  }
+
+  #header .intro-text {
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    margin-bottom: 10px;
+    text-align: center;
+    height: auto;
+  }
+
+  .app-store-buttons {
+    margin-top: 10px;
+  }
+
+  .playStore-logo,
+  .appStore-logo {
+    height: 40px;
+    margin: 0 5px;
+  }
+} */

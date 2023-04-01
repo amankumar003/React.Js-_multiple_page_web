@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="VOTE" transform="translate(0 -26.83)">
+    <g id="Group_728" data-name="Group 728" transform="translate(0 26.83)">
+      <circle id="Ellipse_57" data-name="Ellipse 57" cx="12.5" cy="12.5" r="12.5" fill="#24e5a4"/>
+    </g>
+    <g id="Group_732" data-name="Group 732" transform="translate(7 30.689)">
+      <g id="keyboard_arrow_up-white-18dp">
+        <path id="Path_11" data-name="Path 11" d="M0,0H10.714V10.714H0Z" fill="none"/>
+        <path id="Path_12" data-name="Path 12" d="M7.173,13.508,9.56,10.531l2.476,2.977,1.084-1.166L9.56,8,6,12.342Z" transform="translate(-4.214 -5.321)" fill="#fff"/>
+      </g>
+      <g id="keyboard_arrow_down-white-18dp" transform="translate(0 7)">
+        <path id="Path_13" data-name="Path 13" d="M0,0H10.714V10.714H0Z" fill="none"/>
+        <path id="Path_14" data-name="Path 14" d="M7.094,8.342l2.466,2.4,2.515-2.4,1.045,1.12L9.56,13.171,6,9.462Z" transform="translate(-4.214 -5.648)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
